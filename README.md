@@ -15,3 +15,7 @@ The project seeks to solve several key problems and misconceptions associated wi
 4. Centralization: Centralization of mining power in the hands of a few large mining pools is a common concern in the blockchain community. The Blockchain Mining Demonstration project emphasizes the importance of decentralization and explores ways to promote distributed mining operations and community-driven governance models.
 
 Overall, the Blockchain Mining Demonstration project serves as an educational platform and awareness campaign to promote a deeper understanding of blockchain mining and its implications for the future of finance, technology, and society. By fostering dialogue and engagement around blockchain mining, the project aims to empower individuals and organizations to harness the potential of this transformative technology and contribute to its ongoing evolution and adoption.
+
+# Credits
+
+Code from https://www.javatpoint.com/blockchain-java

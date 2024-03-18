@@ -18,4 +18,4 @@ Overall, the Blockchain Mining Demonstration project serves as an educational pl
 
 # Credits
 
-Code examples from https://www.javatpoint.com/blockchain-java
+Code reference from https://www.javatpoint.com/blockchain-java
